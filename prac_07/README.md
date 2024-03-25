@@ -2,7 +2,7 @@
 # Practicals Repository README
 ## Introduction
 ### About the Author
-I'm JintaoWu.
+I'm Jintao Wu.
 ## Lessons Learned
 Throughout this subject, I have learned several valuable lessons about writing clean code, which are crucial for any software development project:
 - **Readability Matters**: Writing code that is easy to read and understand by others is just as important as getting the code to work.

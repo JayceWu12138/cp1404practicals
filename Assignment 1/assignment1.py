@@ -1,4 +1,3 @@
-
 import csv
 CSV_FILE = 'movies.csv'
 MENU = """Menu:
